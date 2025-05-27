@@ -12,4 +12,5 @@ Hi, I have created a visual dasboard of superstore sales data. The implied point
 * PFB , the visual Power BI report dashboard screenshots.
 * ![image](https://github.com/user-attachments/assets/5073624e-912d-443f-8343-f1b86f227801)
 * ![image](https://github.com/user-attachments/assets/9a6e096d-fe7e-46ce-a30c-e8166618e6e7)
+[Superstore Sale Dashboard-Dilip R.pdf](https://github.com/user-attachments/files/20463073/Superstore.Sale.Dashboard-Dilip.R.pdf)
 
